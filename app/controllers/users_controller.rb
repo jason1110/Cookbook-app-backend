@@ -40,3 +40,5 @@ class UsersController < ApplicationController
     end
 
 end
+
+# delete this line
